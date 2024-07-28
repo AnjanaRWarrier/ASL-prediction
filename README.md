@@ -1,4 +1,4 @@
- ASL-prediction: sugn Project
+ ASL-prediction
 
 ## Overview
 This project aims to recognize American Sign Language (ASL) gestures using computer vision and machine learning. This project leverages hand tracking and gesture recognition techniques to identify different ASL signs.
